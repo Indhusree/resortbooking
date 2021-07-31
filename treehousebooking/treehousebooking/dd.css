@@ -1,0 +1,39 @@
+#center{
+  text-align: center;
+  padding-top:35%;
+  text-decoration-style:solid;
+  text-emphasis-style: circle;
+  text-decoration-color:white;
+}
+  #tc1{
+   color:white;
+   font-weight:700;
+   font-size: 5em;
+   font-style:;
+   }
+   #tc{
+    color:white;
+    font-weight:700;
+    font-size: 1em;
+    }
+.navbar{
+  text-decoration:none;
+  color:green;
+  background:green;
+}
+body{
+  background-image:url(https://images.unsplash.com/photo-1580713794493-9f54a4f93099?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHRyZWVob3VzZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+html{
+  height:100%;
+}
+.navbar{
+
+  background-color:white;
+}
+
+#u{
+  color:black;
+}
